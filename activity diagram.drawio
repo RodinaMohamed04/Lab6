@@ -66,7 +66,7 @@
         <mxCell id="z5jzKdm0otkhCUFOz11k-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z5jzKdm0otkhCUFOz11k-74" target="z5jzKdm0otkhCUFOz11k-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z5jzKdm0otkhCUFOz11k-74" value="&amp;nbsp;Process payment" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="z5jzKdm0otkhCUFOz11k-74" value="Save enrollment request" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="607.5" width="120" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="z5jzKdm0otkhCUFOz11k-164" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z5jzKdm0otkhCUFOz11k-77" target="z5jzKdm0otkhCUFOz11k-81">
@@ -75,7 +75,7 @@
         <mxCell id="z5jzKdm0otkhCUFOz11k-166" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z5jzKdm0otkhCUFOz11k-77" target="z5jzKdm0otkhCUFOz11k-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z5jzKdm0otkhCUFOz11k-77" value="Was payment successful?" style="rhombus;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="z5jzKdm0otkhCUFOz11k-77" value="Was enrollment saved successfully?" style="rhombus;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="48.75" y="760" width="97.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z5jzKdm0otkhCUFOz11k-81" value="Create enrollment record in database." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -143,7 +143,7 @@
             <mxPoint x="820" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z5jzKdm0otkhCUFOz11k-160" value="Payment failed message" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="z5jzKdm0otkhCUFOz11k-160" value="Show error message" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z5jzKdm0otkhCUFOz11k-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.555;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z5jzKdm0otkhCUFOz11k-81" target="z5jzKdm0otkhCUFOz11k-94">
