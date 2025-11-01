@@ -1,29 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="lF81oiY1hW8vtEZ666zX">
-    <mxGraphModel dx="1457" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_FFkfSNyMcupRzHrC7Rn-21" value="SkillForge UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="120" height="680" as="geometry" />
+          <mxGeometry x="160" y="80" width="120" height="650" as="geometry" />
         </mxCell>
         <mxCell id="_FFkfSNyMcupRzHrC7Rn-22" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="20" height="680" as="geometry" />
+          <mxGeometry x="100" y="80" width="20" height="650" as="geometry" />
         </mxCell>
         <mxCell id="_FFkfSNyMcupRzHrC7Rn-23" value="Courses DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="120" height="680" as="geometry" />
+          <mxGeometry x="320" y="80" width="120" height="650" as="geometry" />
         </mxCell>
         <mxCell id="_FFkfSNyMcupRzHrC7Rn-82" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="_FFkfSNyMcupRzHrC7Rn-23">
           <mxGeometry x="60" y="90" width="10" height="520" as="geometry" />
         </mxCell>
         <mxCell id="_FFkfSNyMcupRzHrC7Rn-24" value="Payment System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="120" height="680" as="geometry" />
+          <mxGeometry x="480" y="80" width="120" height="650" as="geometry" />
         </mxCell>
         <mxCell id="_FFkfSNyMcupRzHrC7Rn-25" value="Messaging System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="120" height="680" as="geometry" />
+          <mxGeometry x="640" y="80" width="120" height="650" as="geometry" />
         </mxCell>
         <mxCell id="_FFkfSNyMcupRzHrC7Rn-26" value="Analytics System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="790" y="80" width="120" height="680" as="geometry" />
+          <mxGeometry x="790" y="80" width="120" height="650" as="geometry" />
         </mxCell>
         <mxCell id="_FFkfSNyMcupRzHrC7Rn-27" value="Return Available Courses" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="_FFkfSNyMcupRzHrC7Rn-21">
           <mxGeometry relative="1" as="geometry">
