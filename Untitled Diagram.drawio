@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="VDZa9jgrSAaiPJXVdEwi">
-    <mxGraphModel dx="1608" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1940" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,6 +348,9 @@
         </mxCell>
         <mxCell id="vdor28YRsyYJnUGEkDTp-165" value="Use Case Diagram" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#CC99FF);align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=16;labelBackgroundColor=none;gradientColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-840" y="10" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vdor28YRsyYJnUGEkDTp-166" value="&lt;h3 data-end=&quot;108&quot; data-start=&quot;72&quot;&gt;&lt;strong data-end=&quot;108&quot; data-start=&quot;76&quot;&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;p data-end=&quot;501&quot; data-start=&quot;109&quot;&gt;This diagram represents the interactions between the main actors (Student, Instructor, Admin) and the system showing how each user type performs specific actions such as enrolling in courses, creating lessons, or managing users. It helps define system functionality from the user’s perspective and clarifies the boundaries and responsibilities of each actor within the SkillForge platform.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-720" width="560" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
